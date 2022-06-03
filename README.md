@@ -20,9 +20,9 @@ Its nice seeing you around, Here are some things you probably dont know about me
 
 Connect with me:
 
-    ()[https://ww
+    
 
-w.linkedin.com/in/edoki-chukwuyem-659688220]
+(⚡)[linkedin.com/in/edoki-chukwuyem-659688220]
 
     Languages and Tools I am familiar with:
 
