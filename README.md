@@ -1,18 +1,18 @@
-> #### <h1 align="center">Izi Martin </h1>
-> <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+> #### <h1 align="center">Edoki chukwuyem </h1>
+> <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="400px"/></a>
 >
-> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I've been waiting for you</h1>
+> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I've been waiting for you</h1>
 > <h3 align="center"> Its nice seeing you around, Here are some things you probably dont know about me, I guess you do</h3>
 >
 > ## 🙋‍♂️ About Me
 >
-> - 🔭 I’m a Full Stack Developer || Software Engineer || UI & UX Designer
+> - 🔭 I’m an App Developer || Software Engineer
 > 
 > - 🤔 I’m looking for **Remote jobs related to my skillset**
 >
-> - 💬 Ask me about anything Full Stack Developement, I would be glad to answer you.
+> - 💬 Ask me about anything App Developement, I would be glad to answer you.
 >
-> - 📫 **How to reach me **izimartinz@gmail.com****
+> - 📫 **How to reach me **edokichuks@gmail.com****
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
@@ -21,21 +21,21 @@
 >
 ><h3 align="left">Connect with me:</h3>
 ><p align="left">
-> <a href="https://www.linkedin.com/in/izimartin" target="_blank"><img align="center"
+> <a href="https://www.linkedin.com/in/edoki-chukwuyem-659688220" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
->    <a href="https://wa.link/k65d3f" target="_blank_"><img align="center"
+>    <a href="https://wa.me/qr/KDHE2Y223QWCC1" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
->  <a href="https://fb.com/izimartin" target="_blank"><img align="center"
+>  <a href="https://www.facebook.com/edoki.chukwuyem" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Izi Martin" height="30" width="40" /></a> 
->  <a href="https://www.instagram.com/izimartinz" target="_blank"><img align="center"
+>      alt="Edoki chuks" height="30" width="40" /></a> 
+>  <a href="https://www.instagram.com/fortune_edos" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Izi Martin" height="30" width="40" /></a> 
-> <a href="https://twitter.com/Izimartin" target="_blank"><img align="center"
+>      alt="Edoki chuks" height="30" width="40" /></a> 
+> <a href="https://twitter.com/Emmanue07443232?t=Gz1p9ijL8Gj7nnEnvLt9VA&s=08" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Izi Martin" height="30" width="40" /></a> 
+>      alt="Edoki chuks" height="30" width="40" /></a> 
 > </p>
 >
 > <br>
@@ -43,9 +43,9 @@
 > <h3 align="left">Languages and Tools I am familiar with:</h3>
 > <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
->      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
->      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+>      alt="android" width="40" height="40" /> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+>    <img src="https://www.bing.com/images/search?view=detailV2&ccid=Tp6U%2BC6y&id=750B861D0CC9C936FC8799CEE76ED410CBAC6F13&thid=OIP.Tp6U-C6yJvbVvWBJBEgbkQAAAA&mediaurl=https%3A%2F%2Fi.gadgets360cdn.com%2Flarge%2Fgoogle_flutter_small_1519813271775.jpg%3Fdownsize%3D160%3A120%26output-quality%3D80%26output-format%3Djpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.4e9e94f82eb226f6d5bd604904481b91%3Frik%3DE2%252bsyxDUbufOmQ%26pid%3DImgRaw%26r%3D0&exph=120&expw=160&q=Flutter+Logo.png&simid=608055172019345345&form=IRPRST&ck=5AEF5B46A37E2308D61998A15C396E67&selectedindex=7&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_Lo%252FX8YnF*cp_19D1A93DAAAAE2A33E90D06E439466A7*mid_7BD9DC0AF27E6B33EC330300212C364AB0D2362E*simid_608017908900649791*thid_OIP.Lo!_X8YnFUgCjN6AR4ez2GgAAAA&vt=0&sim=11&iss=VSI"
+>      alt="Flutter" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
 >    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 >      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 >    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -76,25 +76,25 @@
 >      </p>
 >
 > <br>
-> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izimartin&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Izimartin&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Izi Martin's github stats" />
-> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Izimartin&" alt="Izi Martin" /></p>
+> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edokichuks&layout=compact&theme=light&hide_border=false" />
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=edokichuks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Edoki chuks's github stats" />
+> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Izimartin&" alt="Edoki Chuks" /></p>
 > <br/>
 > <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/Izimartin/github-readme-activity-graph"><img alt="Izi Martin' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Izimartin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/edokichuks/github-readme-activity-graph"><img alt="Edoki Chuks' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edokichuks&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 ## ❤ Views and Followers
 
 
-<a href="https://github.com/Izimartin/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Izimartin">
+<a href="https://github.com/edokichuks/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=edokichuks">
 </a>
-<a href="https://github.com/Izimartin?tab=followers"><img src="https://img.shields.io/github/followers/Izimartin?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/edokichuks?tab=followers"><img src="https://img.shields.io/github/followers/edokichuks?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
-Izimartin/Izi-Martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+edokichuks/Edoki-Chuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
