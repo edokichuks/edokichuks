@@ -1,7 +1,7 @@
 > #### <h1 align="center">Edoki chukwuyem </h1>
 > <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="400px"/></a>
 >
-> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I've been waiting for you</h1>
+> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I've been waiting for you</h1>
 > <h3 align="center"> Its nice seeing you around, Here are some things you probably dont know about me, I guess you do</h3>
 >
 > ## 🙋‍♂️ About Me
