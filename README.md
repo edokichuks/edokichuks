@@ -58,9 +58,9 @@
 >      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
 >     height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
->      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"rel="noreferrer"> <img
->      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
->      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+>      height="40" /> </a> <a href="https://dart.dev/" target="_blank"rel="noreferrer"> <img
+>      src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png"
+>      alt="Dart" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
 >    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
 >  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -69,9 +69,9 @@
 >      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 >  <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
->      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+>      alt="react" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 >  <img
->      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+>      src="https://th.bing.com/th/id/OIP.cCYnq-LNpVFxs27F7zn-7AHaHx?pid=ImgDet&rs=1" alt="VS" width="40"
 >      height="40" /> </a> 
 >      </p>
 >
