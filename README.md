@@ -22,7 +22,7 @@ Connect with me:
 
     
 
-[⚡](linkedin.com/in/edoki-chukwuyem-659688220)
+[Izi Martin ](linkedin.com/in/edoki-chukwuyem-659688220)
 
     Languages and Tools I am familiar with:
 
