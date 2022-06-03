@@ -16,7 +16,7 @@
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
-> - ⚡ Fun fact: I love Dancing to 9ja Music ( Fan of @iamdavido)
+> - ⚡ Fun fact: I love watching adventure movies
 
 >
 ><h3 align="left">Connect with me:</h3>
