@@ -67,12 +67,12 @@
 >      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 >      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
->  <img
+<!-- >  <img
 >      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 >      alt="react" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 >  <img
 >      src="https://th.bing.com/th/id/OIP.cCYnq-LNpVFxs27F7zn-7AHaHx?pid=ImgDet&rs=1" alt="VS" width="40"
->      height="40" /> </a> 
+>      height="40" /> </a>  -->
 >      </p>
 >
 > <br>
